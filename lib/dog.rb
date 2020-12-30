@@ -67,7 +67,6 @@ class Dog
       else
         dog = dog.create(name: name, breed:breed)
       end
-    dog
   end
 
   def update
